@@ -25,12 +25,15 @@
 
 Tôi có kinh nghiệm sử dụng một số công nghệ và ngôn ngữ lập trình như sau:
 
-**Ngôn ngữ lập trình**: Java,JavaScript,C#
-**Frameworks và Libraries**: React, Node.js,Android SDK
-**Cơ sở dữ liệu**: MySQL,Firebase
-**Công cụ phát triển**: Android Studio,VS Code
+- **Ngôn ngữ lập trình**: Java,JavaScript,C#
+- **Frameworks và Libraries**: React, Node.js,Android SDK
+- **Cơ sở dữ liệu**: MySQL,Firebase
+- **Công cụ phát triển**: Android Studio,VS Code
 
-**Liên hệ**
+## 🌟 Mục Tiêu Nghề Nghiệp
+ Mục tiêu của tôi là trở thành một lập trình viên giỏi để có thể tạo ra được nhiều ứng dụng hay, có ích cho cuộc sống.
+
+## 📬 Liên Hệ
 - 📧 **Email:** nangphan2591@gmail.com
 - 🌐 **Zalo:** 0707483850
 - 👤 **Facebook:** [facebook.com/profile/](https://www.facebook.com/profile/)
